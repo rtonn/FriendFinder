@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rtonn/FriendFinder/issues"
   },
-  "homepage": "https://github.com/rtonn/FriendFinder#readme"
+  "homepage": "https://github.com/rtonn/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
