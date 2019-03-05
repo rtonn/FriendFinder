@@ -23,7 +23,7 @@ FriendFinder is a friend matching app based on the user's responses to a ten que
 - Bootstrap
 
 ## Demo	
-* FriendFinder is deployed to Heroku. Please check it out [here](https://fierce-fortress-60021.herokuapp.com/).
+* FriendFinder is deployed to Heroku. Please check it out [here](https://desolate-savannah-79407.herokuapp.com).
 
 ## Installation
 To install the application follow the instructions below:
