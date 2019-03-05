@@ -42,7 +42,9 @@ After the `PORT` environment variable has been set, run the Node.js application 
 	node server.js
 	
 The application will now be running locally on `PORT`, in this case that is port 3000. You can then access it locally from your browser at the URL `localhost:PORT`, in this case `localhost:3000`.
-* Screen Shots: 
+- Screen Shots: 
+
 ![route_home](https://user-images.githubusercontent.com/44482712/53780272-46484200-3ec9-11e9-9a61-1fb11341417b.png)
+
 ![route_about](https://user-images.githubusercontent.com/44482712/53780278-4b0cf600-3ec9-11e9-8eb6-beef16fa4305.png)
 
